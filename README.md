@@ -1,4 +1,4 @@
- # Retail Data Engineering Project
+ # retail data engineering project
 
 ## Overview
 
