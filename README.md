@@ -104,34 +104,6 @@ Manual BULK INSERT statements are not allowed.
 
 ------------------------------------------------------------------------
 
-## Project Timeline
-
-Start Date: 27 February\
-End Date: 13 March\
-Duration: 2 Weeks
-
-Rules: - Daily check-ins - Team collaboration allowed - No AI tools
-allowed - Earlier completion is encouraged
-
-------------------------------------------------------------------------
-
-## Assessment Criteria (100 Marks)
-
--   Database Architecture -- 15
--   Staging Implementation -- 10
--   Data Warehouse Design -- 20
--   SSIS Automation -- 20
--   Data Transformation Logic -- 10
--   Security Implementation -- 10
--   Analytical Views -- 10
--   Business Insight & Query Accuracy -- 5
-
-Distinction: 75%+\
-Pass: 50--74%\
-Fail: Below 50%
-
-------------------------------------------------------------------------
-
 ## Learning Outcomes
 
 -   Enterprise database architecture
@@ -153,4 +125,3 @@ Fail: Below 50%
 
 ------------------------------------------------------------------------
 
-Author: Retail Data Engineering Project Team
